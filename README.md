@@ -16,3 +16,4 @@ You can add anything here to test it.
 
 **NEW LINE**
 
+# conflict line
